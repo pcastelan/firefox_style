@@ -568,10 +568,12 @@
     background: var(--primary-accent-color-dark) !important;
   }
 }
+
 @-moz-document url(about:addons), url-prefix(about:debugging)  {
   .detail-view-container {
     color: var(--primary-light-color) !important;
   }
+  
 
   .detail-row,
   .detail-row-complex,
